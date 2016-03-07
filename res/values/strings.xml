@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Feedback</string>
+    <string name="app_name">SVS+</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu">MENU</string>
+    <string name="stop">Stop Playing</string>
+    <string name="thought">THOUGHT OF THE DAY</string>
+    <string name="darshan">DARSHAN</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="date_button_set">Set date</string>
+    <string name="time_button_set">Set time</string>
+    <string name="instruction">Tap on a song to play</string>
+    <string name="contactus">        Puj Sai Vasanshah Darbar \n 
+        (Aasau_tar Rohri Wale Mandir) \n Ulhasnagar-421005 \n
+		Contact No. 0251-2521674,2531313 \n
+		Websites – www.saivasanshah.com , www.saimere.com, www.babavasanshah.com, \n
+		Facebook- www.facebook.com/svs1313  \n
+		Youtube – www.youtube.com/saikaliram13 \n</string>
+	
+    <string name="header">SAI VASHAN SHAH DARBAR</string>
+    <string name="blank_string"></string>
+    <string name="register">REGISTER</string>
+    <string name="name">Your name</string>
+    <string name="contact">Contact</string>
+    <string name="age">Your age</string>
+    <string name="dob">dd/mm/yyyy</string>
+    <string name="gender">Your gender</string>
+    <string name="profession">Your profession</string>
+    <string name="city">Your city</string>
+    <string name="submit">Submit</string>
+    <string name="txt1">Name:</string>
+    <string name="txt2">Contact:</string>
+    <string name="txt3">Age:</string>
+    <string name="txt4">DOB:</string>
+    <string name="txt5">Gender:</string>
+    <string name="txt6">Profession:</string>
+    <string name="txt7">City:</string>
+    <string name="genderPrompt">Select Gender</string>
+    <string name="instruction_video">Tap on a video to play</string>
+    <string name="instruction_event">UPCOMING EVENTS</string>
+    <string name="reminder">Tap to set reminder</string>
+    <string name="feedback_send">What do you feel about the app?</string>
+    <string name="send_feedback">Send</string>
+    <string name="enter_feedback">Enter your feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="Share">Share image</string>
+
+    <string name="about_us_info">
+        
+        Param Pujya Sai Vasan Shah was a revered saint of early 19th century 
+        who was famed not only for his spirituality but also for being a great motivator 
+        and a social crusader in a true sense. Born in 1846 as Vehdomal, he was moulded
+        at an early age by his guru Shahanshah Sai Parushah, who taught him the true values 
+        of leading a selfless life committed to the service of the down trodden and the needy. 
+         \n \n 
+       Shahanshah Sai Parushah, who himself was referred by his followers 
+        as the spirit of God in a human form, had such a deep impact on the
+        mind of young Vehdomal that he spent his whole life serving the humanity. 
+        Fondly called "VASAN" by his guru, Vehdomal with his selfless work 
+        and worship earned not only the love and respect of the people but also the title 
+        of "SHAH". Thus from Vehdomal he became VASAN and later VASAN SHAH.
+        
+    </string>
+    
+    <string-array name="gender_spinner">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

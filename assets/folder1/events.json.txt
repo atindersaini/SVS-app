@@ -1,0 +1,71 @@
+{ "events": [
+	{
+  
+		"EventName": {Shivraatri},
+  
+		"Date": {17/02/2015}
+
+	},
+	{
+  
+		"EventName": Umaas
+		"Date": {18/02/2015}
+
+	},
+{
+  
+		"EventName": {Chaand},
+  
+		"Date": {20/02/2015}
+
+	},
+{
+  
+		"EventName": {Holi},
+  
+		"Date": {05/03/2015}
+
+	},
+{
+  
+		"EventName": {Umaas},
+  
+		"Date": {20/03/2015}
+
+	},
+{
+  
+		"EventName": {Varsi Sai Chetanram Saheb},
+  
+		"Date": {21/03/2015}
+
+	},
+{
+  
+		"EventName": {Varsi Sai Chetanram Saheb},
+  
+		"Date": {22/03/2015}
+
+	},
+{
+  
+		"EventName": {Varsi Sai Chetanram Saheb},
+  
+		"Date": {23/03/2015}
+
+	},
+{
+  
+		"EventName": {Cheti Chand},
+  
+		"Date": {22/02/2015}
+
+	},
+{
+  
+		"EventName": {Birthday Sai Gurmukhdas Saheb},
+  
+		"Date": {27/02/2015}
+
+	}
+]}
