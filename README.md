@@ -1,4 +1,4 @@
-# SVS-app
+# SVS-app (https://play.google.com/store/apps/details?id=com.app.svs&hl=en)
 
 An Android app created for Sai Vasan Shah foundation based in Mumbai, India.
 
