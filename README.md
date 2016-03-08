@@ -1,4 +1,4 @@
-# SVS-app
+# SVS-app for Android
 
 Play Store: https://play.google.com/store/apps/details?id=com.app.svs&hl=en
 
